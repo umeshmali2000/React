@@ -1,0 +1,8 @@
+using functional component print the firstname
+and lastname with properties
+
+using functional component display the addition
+ of two number.
+
+Print 'Hello' from parent component and 
+print the self name from child component
